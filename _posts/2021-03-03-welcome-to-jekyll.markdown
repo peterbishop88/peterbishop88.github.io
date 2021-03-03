@@ -17,5 +17,7 @@ Jekyll also offers powerful support for code snippets:
 
 Check out my cool projects: 
 - [Strava Dashboard](https://peterbishop88.github.io/StravaDash/)
+
 - [Budget Tool](https://peterbishop88.github.io/finance_app/)
+
 - [File Manager](https://peterbishop88.github.io/file_management/)
