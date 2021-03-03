@@ -14,19 +14,8 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-#{% highlight ruby %}
-#def print_hi(name)
-#  puts "Hi, #{name}"
-#end
-#print_hi('Tom')
-# => prints 'Hi, Tom' to STDOUT.
-#{% endhighlight %}
 
 Check out my cool projects: 
-- [strava_dash][Strava Dashboard]
-- [finance_app][Budget Tool]
-- [file_management][File Manager]
-
-[strava_dash]: https://peterbishop88.github.io/StravaDash/
-[finance_app]:   https://peterbishop88.github.io/finance_app/
-[file_management]: https://peterbishop88.github.io/file_management/
+- [Strava Dashboard](https://peterbishop88.github.io/StravaDash/)
+#- [https://peterbishop88.github.io/finance_app/](Budget Tool)
+#- [https://peterbishop88.github.io/file_management/](File Manager)
